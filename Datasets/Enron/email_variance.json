@@ -1,0 +1,245 @@
+{
+  "baseValue": 10.66,
+  "monthlyVariance": [
+    {
+      "year": 1999,
+      "month": 1,
+      "variance": -3.611
+    },
+    {
+      "year": 1999,
+      "month": 2,
+      "variance": 0.986
+    },
+    {
+      "year": 1999,
+      "month": 3,
+      "variance": -1.390
+    },
+    {
+      "year": 1999,
+      "month": 4,
+      "variance": -1.074
+    },
+    {
+      "year": 1999,
+      "month": 5,
+      "variance": -0.981
+    },
+    {
+      "year": 1999,
+      "month": 6,
+      "variance": 0.674
+    },
+    {
+      "year": 1999,
+      "month": 7,
+      "variance": -0.565
+    },
+    {
+      "year": 1999,
+      "month": 8,
+      "variance": 1.080
+    },
+    {
+      "year": 1999,
+      "month": 9,
+      "variance": -1.447
+    },
+    {
+      "year": 1999,
+      "month": 10,
+      "variance": -1.284
+    },
+    {
+      "year": 1999,
+      "month": 11,
+      "variance": -0.671
+    },
+    {
+      "year": 1999,
+      "month": 12,
+      "variance": 1.177
+    },
+    {
+      "year": 2000,
+      "month": 1,
+      "variance": 3.156
+    },
+    {
+      "year": 2000,
+      "month": 2,
+      "variance": 0.914
+    },
+    {
+      "year": 2000,
+      "month": 3,
+      "variance": -0.800
+    },
+    {
+      "year": 2000,
+      "month": 4,
+      "variance": -2.536
+    },
+    {
+      "year": 2000,
+      "month": 5,
+      "variance": -0.254
+    },
+    {
+      "year": 2000,
+      "month": 6,
+      "variance": -1.601
+    },
+    {
+      "year": 2000,
+      "month": 7,
+      "variance": -2.050
+    },
+    {
+      "year": 2000,
+      "month": 8,
+      "variance": -1.330
+    },
+    {
+      "year": 2000,
+      "month": 9,
+      "variance": -0.935
+    },
+    {
+      "year": 2000,
+      "month": 10,
+      "variance": -2.691
+    },
+    {
+      "year": 2000,
+      "month": 11,
+      "variance": -0.974
+    },
+    {
+      "year": 2000,
+      "month": 12,
+      "variance": -0.746
+    },
+    {
+      "year": 2001,
+      "month": 1,
+      "variance": -0.376
+    },
+    {
+      "year": 2001,
+      "month": 2,
+      "variance": 1.866
+    },
+    {
+      "year": 2001,
+      "month": 3,
+      "variance": -1.760
+    },
+    {
+      "year": 2001,
+      "month": 4,
+      "variance": 2.026
+    },
+    {
+      "year": 2001,
+      "month": 5,
+      "variance": -0.276
+    },
+    {
+      "year": 2001,
+      "month": 6,
+      "variance": -0.125
+    },
+    {
+      "year": 2001,
+      "month": 7,
+      "variance": 0.378
+    },
+    {
+      "year": 2001,
+      "month": 8,
+      "variance": -1.472
+    },
+    {
+      "year": 2001,
+      "month": 9,
+      "variance": 1.002
+    },
+    {
+      "year": 2001,
+      "month": 10,
+      "variance": -1.790
+    },
+    {
+      "year": 2001,
+      "month": 11,
+      "variance": -2.597
+    },
+    {
+      "year": 2001,
+      "month": 12,
+      "variance": -1.612
+    },
+    {
+      "year": 2002,
+      "month": 1,
+      "variance": -1.457
+    },
+    {
+      "year": 2002,
+      "month": 2,
+      "variance": 1.086
+    },
+    {
+      "year": 2002,
+      "month": 3,
+      "variance": 0.678
+    },
+    {
+      "year": 2002,
+      "month": 4,
+      "variance": 1.014
+    },
+    {
+      "year": 2002,
+      "month": 5,
+      "variance": 2.468
+    },
+    {
+      "year": 2002,
+      "month": 6,
+      "variance": -1.502
+    },
+    {
+      "year": 2002,
+      "month": 7,
+      "variance": -1.236
+    },
+    {
+      "year": 2002,
+      "month": 8,
+      "variance": -0.315
+    },
+    {
+      "year": 2002,
+      "month": 9,
+      "variance": 0.324
+    },
+    {
+      "year": 2002,
+      "month": 10,
+      "variance": -0.383
+    },
+    {
+      "year": 2002,
+      "month": 11,
+      "variance": -0.380
+    },
+    {
+      "year": 2002,
+      "month": 12,
+      "variance": -1.195
+    }
+]
+}
