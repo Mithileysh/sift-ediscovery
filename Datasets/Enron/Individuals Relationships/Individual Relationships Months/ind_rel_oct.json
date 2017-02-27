@@ -72,12 +72,12 @@
   {
     "x": "james.d.steffes@enron.com",
     "y": "steven.j.kean@enron.com",
-    "z": 54
+    "z": 64
   },
   {
     "x": "james.d.steffes@enron.com",
     "y": "sara.shackleton@enron.com",
-    "z": 0
+    "z": 44
   },
   {
     "x": "james.d.steffes@enron.com",
@@ -102,7 +102,7 @@
   {
     "x": "j.kaminski@enron.com",
     "y": "jeff.dasovich@enron.com",
-    "z": 0
+    "z": 53
   },
   {
     "x": "j.kaminski@enron.com",
@@ -207,7 +207,7 @@
   {
     "x": "steven.j.kean@enron.com",
     "y": "james.d.steffes@enron.com",
-    "z": 63
+    "z": 73
   },
   {
     "x": "steven.j.kean@enron.com",
@@ -217,7 +217,7 @@
   {
     "x": "steven.j.kean@enron.com",
     "y": "kay.mann@enron.com",
-    "z": 0
+    "z": 48
   },
   {
     "x": "steven.j.kean@enron.com",
