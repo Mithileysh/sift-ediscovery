@@ -2,7 +2,7 @@
   {
     "x": "jeff.dasovich@enron.com",
     "y": "jeff.dasovich@enron.com",
-    "z": 19
+    "z": 99
   },
   {
     "x": "jeff.dasovich@enron.com",
@@ -12,12 +12,12 @@
   {
     "x": "jeff.dasovich@enron.com",
     "y": "j.kaminski@enron.com",
-    "z": 0
+    "z": 31
   },
   {
     "x": "jeff.dasovich@enron.com",
     "y": "kay.mann@enron.com",
-    "z": 0
+    "z": 22
   },
   {
     "x": "jeff.dasovich@enron.com",
@@ -27,7 +27,7 @@
   {
     "x": "jeff.dasovich@enron.com",
     "y": "sara.shackleton@enron.com",
-    "z": 0
+    "z": 41
   },
   {
     "x": "jeff.dasovich@enron.com",
@@ -57,17 +57,17 @@
   {
     "x": "james.d.steffes@enron.com",
     "y": "james.d.steffes@enron.com",
-    "z": 1
+    "z": 77
   },
   {
     "x": "james.d.steffes@enron.com",
     "y": "j.kaminski@enron.com",
-    "z": 1
+    "z": 41
   },
   {
     "x": "james.d.steffes@enron.com",
     "y": "kay.mann@enron.com",
-    "z": 0
+    "z": 20
   },
   {
     "x": "james.d.steffes@enron.com",
@@ -112,7 +112,7 @@
   {
     "x": "j.kaminski@enron.com",
     "y": "j.kaminski@enron.com",
-    "z": 0
+    "z": 82
   },
   {
     "x": "j.kaminski@enron.com",
@@ -167,7 +167,7 @@
   {
     "x": "kay.mann@enron.com",
     "y": "kay.mann@enron.com",
-    "z": 0
+    "z": 64
   },
   {
     "x": "kay.mann@enron.com",
@@ -222,7 +222,7 @@
   {
     "x": "steven.j.kean@enron.com",
     "y": "steven.j.kean@enron.com",
-    "z": 13
+    "z": 73
   },
   {
     "x": "steven.j.kean@enron.com",
@@ -277,7 +277,7 @@
   {
     "x": "sara.shackleton@enron.com",
     "y": "sara.shackleton@enron.com",
-    "z": 0
+    "z": 59
   },
   {
     "x": "sara.shackleton@enron.com",
@@ -387,7 +387,7 @@
   {
     "x": "sally.beck@enron.com",
     "y": "sally.beck@enron.com",
-    "z": 0
+    "z": 95
   },
   {
     "x": "sally.beck@enron.com",
@@ -442,7 +442,7 @@
   {
     "x": "richard.b.sanders@enron.com",
     "y": "richard.b.sanders@enron.com",
-    "z": 0
+    "z": 55
   },
   {
     "x": "richard.b.sanders@enron.com",
@@ -497,6 +497,6 @@
   {
     "x": "matthew.lenhart@enron.com",
     "y": "matthew.lenhart@enron.com",
-    "z": 0
+    "z": 72
   }
 ]
