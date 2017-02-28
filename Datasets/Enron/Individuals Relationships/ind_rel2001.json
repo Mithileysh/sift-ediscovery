@@ -2,17 +2,17 @@
   {
     "x": "jeff.dasovich@enron.com",
     "y": "jeff.dasovich@enron.com",
-    "z": 30
-  },
-  {
-    "x": "jeff.dasovich@enron.com",
-    "y": "james.d.steffes@enron.com",
     "z": 491
   },
   {
     "x": "jeff.dasovich@enron.com",
+    "y": "james.d.steffes@enron.com",
+    "z": 1967
+  },
+  {
+    "x": "jeff.dasovich@enron.com",
     "y": "j.kaminski@enron.com",
-    "z": 0
+    "z": 2
   },
   {
     "x": "jeff.dasovich@enron.com",
@@ -22,7 +22,7 @@
   {
     "x": "jeff.dasovich@enron.com",
     "y": "steven.j.kean@enron.com",
-    "z": 424
+    "z": 1396
   },
   {
     "x": "jeff.dasovich@enron.com",
@@ -42,7 +42,7 @@
   {
     "x": "jeff.dasovich@enron.com",
     "y": "richard.b.sanders@enron.com",
-    "z": 0
+    "z": 719
   },
   {
     "x": "jeff.dasovich@enron.com",
@@ -52,69 +52,69 @@
   {
     "x": "james.d.steffes@enron.com",
     "y": "jeff.dasovich@enron.com",
-    "z": 216
+    "z": 660
   },
   {
     "x": "james.d.steffes@enron.com",
     "y": "james.d.steffes@enron.com",
-    "z": 7
+    "z": 13
   },
   {
     "x": "james.d.steffes@enron.com",
-    "y": "j.kaminski@enron.com",
-    "z": 1
-  },
-  {
-    "x": "james.d.steffes@enron.com",
-    "y": "kay.mann@enron.com",
-    "z": 0
-  },
-  {
-    "x": "james.d.steffes@enron.com",
-    "y": "steven.j.kean@enron.com",
-    "z": 154
-  },
-  {
-    "x": "james.d.steffes@enron.com",
-    "y": "sara.shackleton@enron.com",
-    "z": 0
-  },
-  {
-    "x": "james.d.steffes@enron.com",
-    "y": "lynn.blair@enron.com",
-    "z": 0
-  },
-  {
-    "x": "james.d.steffes@enron.com",
-    "y": "sally.beck@enron.com",
-    "z": 0
-  },
-  {
-    "x": "james.d.steffes@enron.com",
-    "y": "richard.b.sanders@enron.com",
-    "z": 0
-  },
-  {
-    "x": "james.d.steffes@enron.com",
-    "y": "matthew.lenhart@enron.com",
-    "z": 0
-  },
-  {
-    "x": "j.kaminski@enron.com",
-    "y": "jeff.dasovich@enron.com",
-    "z": 0
-  },
-  {
-    "x": "j.kaminski@enron.com",
-    "y": "james.d.steffes@enron.com",
-    "z": 0
-  },
-  {
-    "x": "j.kaminski@enron.com",
     "y": "j.kaminski@enron.com",
     "z": 4
   },
   {
+    "x": "james.d.steffes@enron.com",
+    "y": "kay.mann@enron.com",
+    "z": 0
+  },
+  {
+    "x": "james.d.steffes@enron.com",
+    "y": "steven.j.kean@enron.com",
+    "z": 385
+  },
+  {
+    "x": "james.d.steffes@enron.com",
+    "y": "sara.shackleton@enron.com",
+    "z": 0
+  },
+  {
+    "x": "james.d.steffes@enron.com",
+    "y": "lynn.blair@enron.com",
+    "z": 0
+  },
+  {
+    "x": "james.d.steffes@enron.com",
+    "y": "sally.beck@enron.com",
+    "z": 0
+  },
+  {
+    "x": "james.d.steffes@enron.com",
+    "y": "richard.b.sanders@enron.com",
+    "z": 156
+  },
+  {
+    "x": "james.d.steffes@enron.com",
+    "y": "matthew.lenhart@enron.com",
+    "z": 0
+  },
+  {
+    "x": "j.kaminski@enron.com",
+    "y": "jeff.dasovich@enron.com",
+    "z": 0
+  },
+  {
+    "x": "j.kaminski@enron.com",
+    "y": "james.d.steffes@enron.com",
+    "z": 2
+  },
+  {
+    "x": "j.kaminski@enron.com",
+    "y": "j.kaminski@enron.com",
+    "z": 3821
+  },
+  {
     "x": "j.kaminski@enron.com",
     "y": "kay.mann@enron.com",
     "z": 0
@@ -122,7 +122,7 @@
   {
     "x": "j.kaminski@enron.com",
     "y": "steven.j.kean@enron.com",
-    "z": 0
+    "z": 10
   },
   {
     "x": "j.kaminski@enron.com",
@@ -137,7 +137,7 @@
   {
     "x": "j.kaminski@enron.com",
     "y": "sally.beck@enron.com",
-    "z": 0
+    "z": 13
   },
   {
     "x": "j.kaminski@enron.com",
@@ -167,7 +167,7 @@
   {
     "x": "kay.mann@enron.com",
     "y": "kay.mann@enron.com",
-    "z": 74
+    "z": 160
   },
   {
     "x": "kay.mann@enron.com",
@@ -177,7 +177,7 @@
   {
     "x": "kay.mann@enron.com",
     "y": "sara.shackleton@enron.com",
-    "z": 0
+    "z": 23
   },
   {
     "x": "kay.mann@enron.com",
@@ -192,7 +192,7 @@
   {
     "x": "kay.mann@enron.com",
     "y": "richard.b.sanders@enron.com",
-    "z": 0
+    "z": 23
   },
   {
     "x": "kay.mann@enron.com",
@@ -202,17 +202,17 @@
   {
     "x": "steven.j.kean@enron.com",
     "y": "jeff.dasovich@enron.com",
-    "z": 131
+    "z": 300
   },
   {
     "x": "steven.j.kean@enron.com",
     "y": "james.d.steffes@enron.com",
-    "z": 126
+    "z": 250
   },
   {
     "x": "steven.j.kean@enron.com",
     "y": "j.kaminski@enron.com",
-    "z": 5
+    "z": 11
   },
   {
     "x": "steven.j.kean@enron.com",
@@ -222,7 +222,7 @@
   {
     "x": "steven.j.kean@enron.com",
     "y": "steven.j.kean@enron.com",
-    "z": 61
+    "z": 114
   },
   {
     "x": "steven.j.kean@enron.com",
@@ -242,7 +242,7 @@
   {
     "x": "steven.j.kean@enron.com",
     "y": "richard.b.sanders@enron.com",
-    "z": 0
+    "z": 37
   },
   {
     "x": "steven.j.kean@enron.com",
@@ -267,7 +267,7 @@
   {
     "x": "sara.shackleton@enron.com",
     "y": "kay.mann@enron.com",
-    "z": 0
+    "z": 12
   },
   {
     "x": "sara.shackleton@enron.com",
@@ -277,7 +277,7 @@
   {
     "x": "sara.shackleton@enron.com",
     "y": "sara.shackleton@enron.com",
-    "z": 4
+    "z": 10
   },
   {
     "x": "sara.shackleton@enron.com",
@@ -292,7 +292,7 @@
   {
     "x": "sara.shackleton@enron.com",
     "y": "richard.b.sanders@enron.com",
-    "z": 0
+    "z": 11
   },
   {
     "x": "sara.shackleton@enron.com",
@@ -332,7 +332,7 @@
   {
     "x": "lynn.blair@enron.com",
     "y": "lynn.blair@enron.com",
-    "z": 558
+    "z": 625
   },
   {
     "x": "lynn.blair@enron.com",
@@ -362,7 +362,7 @@
   {
     "x": "sally.beck@enron.com",
     "y": "j.kaminski@enron.com",
-    "z": 0
+    "z": 8
   },
   {
     "x": "sally.beck@enron.com",
@@ -372,7 +372,7 @@
   {
     "x": "sally.beck@enron.com",
     "y": "steven.j.kean@enron.com",
-    "z": 4
+    "z": 12
   },
   {
     "x": "sally.beck@enron.com",
@@ -387,7 +387,7 @@
   {
     "x": "sally.beck@enron.com",
     "y": "sally.beck@enron.com",
-    "z": 0
+    "z": 18
   },
   {
     "x": "sally.beck@enron.com",
@@ -402,32 +402,32 @@
   {
     "x": "richard.b.sanders@enron.com",
     "y": "jeff.dasovich@enron.com",
-    "z": 0
+    "z": 25
   },
   {
     "x": "richard.b.sanders@enron.com",
     "y": "james.d.steffes@enron.com",
-    "z": 0
+    "z": 34
   },
   {
     "x": "richard.b.sanders@enron.com",
     "y": "j.kaminski@enron.com",
-    "z": 0
+    "z": 2
   },
   {
     "x": "richard.b.sanders@enron.com",
     "y": "kay.mann@enron.com",
-    "z": 0
+    "z": 5
   },
   {
     "x": "richard.b.sanders@enron.com",
     "y": "steven.j.kean@enron.com",
-    "z": 0
+    "z": 41
   },
   {
     "x": "richard.b.sanders@enron.com",
     "y": "sara.shackleton@enron.com",
-    "z": 0
+    "z": 3
   },
   {
     "x": "richard.b.sanders@enron.com",
@@ -442,7 +442,7 @@
   {
     "x": "richard.b.sanders@enron.com",
     "y": "richard.b.sanders@enron.com",
-    "z": 0
+    "z": 103
   },
   {
     "x": "richard.b.sanders@enron.com",
@@ -497,6 +497,6 @@
   {
     "x": "matthew.lenhart@enron.com",
     "y": "matthew.lenhart@enron.com",
-    "z": 188
+    "z": 261
   }
 ]
