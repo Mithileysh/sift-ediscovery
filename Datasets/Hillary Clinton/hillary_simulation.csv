@@ -1,0 +1,7 @@
+position,Department,Staff,KeywordFreq,Year,Emails,Individuals,Individual,Subjects,Keywords
+1,Department A,8,76,2010,23664,"Hillary Clinton, Jake Sullivan, Cheryl Mills",Hillary Clinton,"Meeting, Email, Countries, Calls, Speech","Calls, Draft, Meetings"
+2,Department B,9,78,2010,13391,"Cheryl Mills, Lauren Jiloty",Cheryl Mills,"Meeting, Email, Foreign","Meetings, Haiti, Calls"
+3,Department C,7,67,2012,3839,"Lauren Jiloty, Hillary Clinton, Sidney Blumenthal",Huma Abedin,"Meeting, Email, Countries","Iran, List, Latest, Calls, Draft"
+4,Department D,6,60,2011,7352,"Lona Valmoro, Jake Sullivan, Sidney Blumenthal",Jake Sullivan,"Meeting, Email, Calls","Meetings, Haiti, Foreign"
+5,Department E,9,83,2010,8971,"Cheryl Mills, Lauren Jiloty",Jake Sullivan,"Meeting, Email","List, Foreign, Meetings, Speech, Russia, Fiji, Talk"
+6,Department F,8,68,2011,1758,Lona Valmoro,Sidney Blumenthal,"Meeting, Calls","Talk, Meetings, Russia, List, Haiti, Calls, Iran, Latest, Calls"
