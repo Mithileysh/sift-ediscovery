@@ -1,0 +1,1827 @@
+[
+  {
+    "emailDate": "01/01/2001",
+    "totalEmails": 46,
+    "deviatedValue": -3.78
+  },
+  {
+    "emailDate": "02/01/2001",
+    "totalEmails": 369,
+    "deviatedValue": 0.49
+  },
+  {
+    "emailDate": "03/01/2001",
+    "totalEmails": 391,
+    "deviatedValue": 0.15
+  },
+  {
+    "emailDate": "04/01/2001",
+    "totalEmails": 341,
+    "deviatedValue": 3.3
+  },
+  {
+    "emailDate": "05/01/2001",
+    "totalEmails": 340,
+    "deviatedValue": 2.92
+  },
+  {
+    "emailDate": "06/01/2001",
+    "totalEmails": 13,
+    "deviatedValue": -3.83
+  },
+  {
+    "emailDate": "07/01/2001",
+    "totalEmails": 53,
+    "deviatedValue": -2.87
+  },
+  {
+    "emailDate": "08/01/2001",
+    "totalEmails": 333,
+    "deviatedValue": -0.48
+  },
+  {
+    "emailDate": "09/01/2001",
+    "totalEmails": 310,
+    "deviatedValue": -1.24
+  },
+  {
+    "emailDate": "10/01/2001",
+    "totalEmails": 332,
+    "deviatedValue": -0.35
+  },
+  {
+    "emailDate": "11/01/2001",
+    "totalEmails": 327,
+    "deviatedValue": 3.15
+  },
+  {
+    "emailDate": "12/01/2001",
+    "totalEmails": 329,
+    "deviatedValue": 3.01
+  },
+  {
+    "emailDate": "13/01/2001",
+    "totalEmails": 37,
+    "deviatedValue": -0.55
+  },
+  {
+    "emailDate": "14/01/2001",
+    "totalEmails": 27,
+    "deviatedValue": -4.19
+  },
+  {
+    "emailDate": "15/01/2001",
+    "totalEmails": 72,
+    "deviatedValue": -4.33
+  },
+  {
+    "emailDate": "16/01/2001",
+    "totalEmails": 372,
+    "deviatedValue": -0.9
+  },
+  {
+    "emailDate": "17/01/2001",
+    "totalEmails": 379,
+    "deviatedValue": -0.36
+  },
+  {
+    "emailDate": "18/01/2001",
+    "totalEmails": 324,
+    "deviatedValue": 3.1
+  },
+  {
+    "emailDate": "19/01/2001",
+    "totalEmails": 292,
+    "deviatedValue": 2.41
+  },
+  {
+    "emailDate": "20/01/2001",
+    "totalEmails": 35,
+    "deviatedValue": -4.08
+  },
+  {
+    "emailDate": "21/01/2001",
+    "totalEmails": 96,
+    "deviatedValue": -3.63
+  },
+  {
+    "emailDate": "22/01/2001",
+    "totalEmails": 378,
+    "deviatedValue": -1.67
+  },
+  {
+    "emailDate": "23/01/2001",
+    "totalEmails": 440,
+    "deviatedValue": 0.25
+  },
+  {
+    "emailDate": "24/01/2001",
+    "totalEmails": 459,
+    "deviatedValue": 0.55
+  },
+  {
+    "emailDate": "25/01/2001",
+    "totalEmails": 336,
+    "deviatedValue": 2.96
+  },
+  {
+    "emailDate": "26/01/2001",
+    "totalEmails": 400,
+    "deviatedValue": 3.3
+  },
+  {
+    "emailDate": "27/01/2001",
+    "totalEmails": 13,
+    "deviatedValue": -3.88
+  },
+  {
+    "emailDate": "28/01/2001",
+    "totalEmails": 41,
+    "deviatedValue": -4.62
+  },
+  {
+    "emailDate": "29/01/2001",
+    "totalEmails": 413,
+    "deviatedValue": -0.48
+  },
+  {
+    "emailDate": "30/01/2001",
+    "totalEmails": 405,
+    "deviatedValue": -0.59
+  },
+  {
+    "emailDate": "31/01/2001",
+    "totalEmails": 424,
+    "deviatedValue": 0.44
+  },
+  {
+    "emailDate": "01/02/2001",
+    "totalEmails": 327,
+    "deviatedValue": 2.81
+  },
+  {
+    "emailDate": "02/02/2001",
+    "totalEmails": 352,
+    "deviatedValue": -0.17
+  },
+  {
+    "emailDate": "03/02/2001",
+    "totalEmails": 15,
+    "deviatedValue": -3.76
+  },
+  {
+    "emailDate": "04/02/2001",
+    "totalEmails": 69,
+    "deviatedValue": -2.72
+  },
+  {
+    "emailDate": "05/02/2001",
+    "totalEmails": 396,
+    "deviatedValue": 0.56
+  },
+  {
+    "emailDate": "06/02/2001",
+    "totalEmails": 491,
+    "deviatedValue": 4.78
+  },
+  {
+    "emailDate": "07/02/2001",
+    "totalEmails": 424,
+    "deviatedValue": 3.71
+  },
+  {
+    "emailDate": "08/02/2001",
+    "totalEmails": 320,
+    "deviatedValue": -0.13
+  },
+  {
+    "emailDate": "09/02/2001",
+    "totalEmails": 376,
+    "deviatedValue": 0.66
+  },
+  {
+    "emailDate": "10/02/2001",
+    "totalEmails": 11,
+    "deviatedValue": -3.21
+  },
+  {
+    "emailDate": "11/02/2001",
+    "totalEmails": 48,
+    "deviatedValue": -2.79
+  },
+  {
+    "emailDate": "12/02/2001",
+    "totalEmails": 396,
+    "deviatedValue": 0.67
+  },
+  {
+    "emailDate": "13/02/2001",
+    "totalEmails": 340,
+    "deviatedValue": 3.03
+  },
+  {
+    "emailDate": "14/02/2001",
+    "totalEmails": 381,
+    "deviatedValue": 3.54
+  },
+  {
+    "emailDate": "15/02/2001",
+    "totalEmails": 434,
+    "deviatedValue": 3.62
+  },
+  {
+    "emailDate": "16/02/2001",
+    "totalEmails": 367,
+    "deviatedValue": -0.05
+  },
+  {
+    "emailDate": "17/02/2001",
+    "totalEmails": 12,
+    "deviatedValue": -3.67
+  },
+  {
+    "emailDate": "18/02/2001",
+    "totalEmails": 28,
+    "deviatedValue": -2.96
+  },
+  {
+    "emailDate": "19/02/2001",
+    "totalEmails": 92,
+    "deviatedValue": -2
+  },
+  {
+    "emailDate": "20/02/2001",
+    "totalEmails": 446,
+    "deviatedValue": 4.11
+  },
+  {
+    "emailDate": "21/02/2001",
+    "totalEmails": 505,
+    "deviatedValue": 4.09
+  },
+  {
+    "emailDate": "22/02/2001",
+    "totalEmails": 462,
+    "deviatedValue": 0.84
+  },
+  {
+    "emailDate": "23/02/2001",
+    "totalEmails": 415,
+    "deviatedValue": -0.25
+  },
+  {
+    "emailDate": "24/02/2001",
+    "totalEmails": 14,
+    "deviatedValue": -4.45
+  },
+  {
+    "emailDate": "25/02/2001",
+    "totalEmails": 51,
+    "deviatedValue": -2.85
+  },
+  {
+    "emailDate": "26/02/2001",
+    "totalEmails": 443,
+    "deviatedValue": 0.43
+  },
+  {
+    "emailDate": "27/02/2001",
+    "totalEmails": 459,
+    "deviatedValue": 4.46
+  },
+  {
+    "emailDate": "28/02/2001",
+    "totalEmails": 545,
+    "deviatedValue": 5.04
+  },
+  {
+    "emailDate": "01/03/2001",
+    "totalEmails": 415,
+    "deviatedValue": 0.02
+  },
+  {
+    "emailDate": "02/03/2001",
+    "totalEmails": 404,
+    "deviatedValue": -0.01
+  },
+  {
+    "emailDate": "03/03/2001",
+    "totalEmails": 40,
+    "deviatedValue": -3.84
+  },
+  {
+    "emailDate": "04/03/2001",
+    "totalEmails": 70,
+    "deviatedValue": -2.57
+  },
+  {
+    "emailDate": "05/03/2001",
+    "totalEmails": 401,
+    "deviatedValue": 0.49
+  },
+  {
+    "emailDate": "06/03/2001",
+    "totalEmails": 503,
+    "deviatedValue": 4.88
+  },
+  {
+    "emailDate": "07/03/2001",
+    "totalEmails": 461,
+    "deviatedValue": 3.92
+  },
+  {
+    "emailDate": "08/03/2001",
+    "totalEmails": 464,
+    "deviatedValue": 0.68
+  },
+  {
+    "emailDate": "09/03/2001",
+    "totalEmails": 380,
+    "deviatedValue": -1.11
+  },
+  {
+    "emailDate": "10/03/2001",
+    "totalEmails": 30,
+    "deviatedValue": -3.94
+  },
+  {
+    "emailDate": "11/03/2001",
+    "totalEmails": 18,
+    "deviatedValue": -3.02
+  },
+  {
+    "emailDate": "12/03/2001",
+    "totalEmails": 495,
+    "deviatedValue": 1.19
+  },
+  {
+    "emailDate": "13/03/2001",
+    "totalEmails": 431,
+    "deviatedValue": 4.2
+  },
+  {
+    "emailDate": "14/03/2001",
+    "totalEmails": 495,
+    "deviatedValue": 4.47
+  },
+  {
+    "emailDate": "15/03/2001",
+    "totalEmails": 495,
+    "deviatedValue": 0.99
+  },
+  {
+    "emailDate": "16/03/2001",
+    "totalEmails": 422,
+    "deviatedValue": 0.82
+  },
+  {
+    "emailDate": "17/03/2001",
+    "totalEmails": 10,
+    "deviatedValue": -3.71
+  },
+  {
+    "emailDate": "18/03/2001",
+    "totalEmails": 67,
+    "deviatedValue": -3.67
+  },
+  {
+    "emailDate": "19/03/2001",
+    "totalEmails": 509,
+    "deviatedValue": 1.42
+  },
+  {
+    "emailDate": "20/03/2001",
+    "totalEmails": 600,
+    "deviatedValue": 5.88
+  },
+  {
+    "emailDate": "21/03/2001",
+    "totalEmails": 547,
+    "deviatedValue": 5.19
+  },
+  {
+    "emailDate": "22/03/2001",
+    "totalEmails": 503,
+    "deviatedValue": 4.11
+  },
+  {
+    "emailDate": "23/03/2001",
+    "totalEmails": 553,
+    "deviatedValue": 1.07
+  },
+  {
+    "emailDate": "24/03/2001",
+    "totalEmails": 21,
+    "deviatedValue": -4.84
+  },
+  {
+    "emailDate": "25/03/2001",
+    "totalEmails": 85,
+    "deviatedValue": -3.77
+  },
+  {
+    "emailDate": "26/03/2001",
+    "totalEmails": 443,
+    "deviatedValue": 0.28
+  },
+  {
+    "emailDate": "27/03/2001",
+    "totalEmails": 395,
+    "deviatedValue": 3.81
+  },
+  {
+    "emailDate": "28/03/2001",
+    "totalEmails": 463,
+    "deviatedValue": 4.12
+  },
+  {
+    "emailDate": "29/03/2001",
+    "totalEmails": 440,
+    "deviatedValue": -0.03
+  },
+  {
+    "emailDate": "30/03/2001",
+    "totalEmails": 467,
+    "deviatedValue": 0.08
+  },
+  {
+    "emailDate": "31/03/2001",
+    "totalEmails": 59,
+    "deviatedValue": -4.86
+  },
+  {
+    "emailDate": "01/04/2001",
+    "totalEmails": 63,
+    "deviatedValue": -3.52
+  },
+  {
+    "emailDate": "02/04/2001",
+    "totalEmails": 546,
+    "deviatedValue": 1.42
+  },
+  {
+    "emailDate": "03/04/2001",
+    "totalEmails": 526,
+    "deviatedValue": 4.86
+  },
+  {
+    "emailDate": "04/04/2001",
+    "totalEmails": 562,
+    "deviatedValue": 4.92
+  },
+  {
+    "emailDate": "05/04/2001",
+    "totalEmails": 508,
+    "deviatedValue": 1.07
+  },
+  {
+    "emailDate": "06/04/2001",
+    "totalEmails": 408,
+    "deviatedValue": -0.95
+  },
+  {
+    "emailDate": "07/04/2001",
+    "totalEmails": 45,
+    "deviatedValue": -4.16
+  },
+  {
+    "emailDate": "08/04/2001",
+    "totalEmails": 65,
+    "deviatedValue": -3.99
+  },
+  {
+    "emailDate": "09/04/2001",
+    "totalEmails": 708,
+    "deviatedValue": 3.28
+  },
+  {
+    "emailDate": "10/04/2001",
+    "totalEmails": 637,
+    "deviatedValue": 6.07
+  },
+  {
+    "emailDate": "11/04/2001",
+    "totalEmails": 680,
+    "deviatedValue": 6.62
+  },
+  {
+    "emailDate": "12/04/2001",
+    "totalEmails": 564,
+    "deviatedValue": 0.69
+  },
+  {
+    "emailDate": "13/04/2001",
+    "totalEmails": 340,
+    "deviatedValue": -0.91
+  },
+  {
+    "emailDate": "14/04/2001",
+    "totalEmails": 62,
+    "deviatedValue": -4.33
+  },
+  {
+    "emailDate": "15/04/2001",
+    "totalEmails": 135,
+    "deviatedValue": -3.6
+  },
+  {
+    "emailDate": "16/04/2001",
+    "totalEmails": 665,
+    "deviatedValue": 2.43
+  },
+  {
+    "emailDate": "17/04/2001",
+    "totalEmails": 702,
+    "deviatedValue": 6.92
+  },
+  {
+    "emailDate": "18/04/2001",
+    "totalEmails": 661,
+    "deviatedValue": 5.94
+  },
+  {
+    "emailDate": "19/04/2001",
+    "totalEmails": 777,
+    "deviatedValue": 2.68
+  },
+  {
+    "emailDate": "20/04/2001",
+    "totalEmails": 619,
+    "deviatedValue": 0.19
+  },
+  {
+    "emailDate": "21/04/2001",
+    "totalEmails": 95,
+    "deviatedValue": -4.52
+  },
+  {
+    "emailDate": "22/04/2001",
+    "totalEmails": 162,
+    "deviatedValue": -3.41
+  },
+  {
+    "emailDate": "23/04/2001",
+    "totalEmails": 739,
+    "deviatedValue": 1.86
+  },
+  {
+    "emailDate": "24/04/2001",
+    "totalEmails": 879,
+    "deviatedValue": 8.58
+  },
+  {
+    "emailDate": "25/04/2001",
+    "totalEmails": 804,
+    "deviatedValue": 7.19
+  },
+  {
+    "emailDate": "26/04/2001",
+    "totalEmails": 619,
+    "deviatedValue": 1.76
+  },
+  {
+    "emailDate": "27/04/2001",
+    "totalEmails": 696,
+    "deviatedValue": 3.01
+  },
+  {
+    "emailDate": "28/04/2001",
+    "totalEmails": 94,
+    "deviatedValue": -3.69
+  },
+  {
+    "emailDate": "29/04/2001",
+    "totalEmails": 167,
+    "deviatedValue": -2.73
+  },
+  {
+    "emailDate": "30/04/2001",
+    "totalEmails": 820,
+    "deviatedValue": 3.53
+  },
+  {
+    "emailDate": "01/05/2001",
+    "totalEmails": 829,
+    "deviatedValue": 7.7
+  },
+  {
+    "emailDate": "02/05/2001",
+    "totalEmails": 659,
+    "deviatedValue": 5.96
+  },
+  {
+    "emailDate": "03/05/2001",
+    "totalEmails": 362,
+    "deviatedValue": -1.84
+  },
+  {
+    "emailDate": "04/05/2001",
+    "totalEmails": 647,
+    "deviatedValue": 1.21
+  },
+  {
+    "emailDate": "05/05/2001",
+    "totalEmails": 28,
+    "deviatedValue": -5.34
+  },
+  {
+    "emailDate": "06/05/2001",
+    "totalEmails": 93,
+    "deviatedValue": -4.15
+  },
+  {
+    "emailDate": "07/05/2001",
+    "totalEmails": 728,
+    "deviatedValue": 3.2
+  },
+  {
+    "emailDate": "08/05/2001",
+    "totalEmails": 742,
+    "deviatedValue": 6.97
+  },
+  {
+    "emailDate": "09/05/2001",
+    "totalEmails": 690,
+    "deviatedValue": 6.25
+  },
+  {
+    "emailDate": "10/05/2001",
+    "totalEmails": 800,
+    "deviatedValue": 0.92
+  },
+  {
+    "emailDate": "11/05/2001",
+    "totalEmails": 798,
+    "deviatedValue": 1.61
+  },
+  {
+    "emailDate": "12/05/2001",
+    "totalEmails": 29,
+    "deviatedValue": -6.51
+  },
+  {
+    "emailDate": "13/05/2001",
+    "totalEmails": 172,
+    "deviatedValue": -3.92
+  },
+  {
+    "emailDate": "14/05/2001",
+    "totalEmails": 892,
+    "deviatedValue": 5.52
+  },
+  {
+    "emailDate": "15/05/2001",
+    "totalEmails": 847,
+    "deviatedValue": 7.85
+  },
+  {
+    "emailDate": "16/05/2001",
+    "totalEmails": 770,
+    "deviatedValue": 6.35
+  },
+  {
+    "emailDate": "17/05/2001",
+    "totalEmails": 756,
+    "deviatedValue": 0.91
+  },
+  {
+    "emailDate": "18/05/2001",
+    "totalEmails": 526,
+    "deviatedValue": -1.76
+  },
+  {
+    "emailDate": "19/05/2001",
+    "totalEmails": 22,
+    "deviatedValue": -6.39
+  },
+  {
+    "emailDate": "20/05/2001",
+    "totalEmails": 113,
+    "deviatedValue": -6.64
+  },
+  {
+    "emailDate": "21/05/2001",
+    "totalEmails": 792,
+    "deviatedValue": 1.73
+  },
+  {
+    "emailDate": "22/05/2001",
+    "totalEmails": 809,
+    "deviatedValue": 7.14
+  },
+  {
+    "emailDate": "23/05/2001",
+    "totalEmails": 834,
+    "deviatedValue": 6.72
+  },
+  {
+    "emailDate": "24/05/2001",
+    "totalEmails": 764,
+    "deviatedValue": 0.25
+  },
+  {
+    "emailDate": "25/05/2001",
+    "totalEmails": 630,
+    "deviatedValue": -2.49
+  },
+  {
+    "emailDate": "26/05/2001",
+    "totalEmails": 24,
+    "deviatedValue": -7.8
+  },
+  {
+    "emailDate": "27/05/2001",
+    "totalEmails": 32,
+    "deviatedValue": -5.87
+  },
+  {
+    "emailDate": "28/05/2001",
+    "totalEmails": 94,
+    "deviatedValue": -6.02
+  },
+  {
+    "emailDate": "29/05/2001",
+    "totalEmails": 868,
+    "deviatedValue": 7.74
+  },
+  {
+    "emailDate": "30/05/2001",
+    "totalEmails": 739,
+    "deviatedValue": 5.72
+  },
+  {
+    "emailDate": "31/05/2001",
+    "totalEmails": 897,
+    "deviatedValue": 0.77
+  },
+  {
+    "emailDate": "01/06/2001",
+    "totalEmails": 770,
+    "deviatedValue": -0.59
+  },
+  {
+    "emailDate": "02/06/2001",
+    "totalEmails": 47,
+    "deviatedValue": -6.12
+  },
+  {
+    "emailDate": "03/06/2001",
+    "totalEmails": 69,
+    "deviatedValue": -2.93
+  },
+  {
+    "emailDate": "04/06/2001",
+    "totalEmails": 791,
+    "deviatedValue": 1.44
+  },
+  {
+    "emailDate": "05/06/2001",
+    "totalEmails": 953,
+    "deviatedValue": 9.25
+  },
+  {
+    "emailDate": "06/06/2001",
+    "totalEmails": 932,
+    "deviatedValue": 8.39
+  },
+  {
+    "emailDate": "07/06/2001",
+    "totalEmails": 1152,
+    "deviatedValue": 4.24
+  },
+  {
+    "emailDate": "08/06/2001",
+    "totalEmails": 641,
+    "deviatedValue": -1.01
+  },
+  {
+    "emailDate": "09/06/2001",
+    "totalEmails": 15,
+    "deviatedValue": -6.75
+  },
+  {
+    "emailDate": "10/06/2001",
+    "totalEmails": 35,
+    "deviatedValue": -7.65
+  },
+  {
+    "emailDate": "11/06/2001",
+    "totalEmails": 364,
+    "deviatedValue": -4.34
+  },
+  {
+    "emailDate": "12/06/2001",
+    "totalEmails": 255,
+    "deviatedValue": 2.26
+  },
+  {
+    "emailDate": "13/06/2001",
+    "totalEmails": 254,
+    "deviatedValue": 0.82
+  },
+  {
+    "emailDate": "14/06/2001",
+    "totalEmails": 214,
+    "deviatedValue": -6.78
+  },
+  {
+    "emailDate": "15/06/2001",
+    "totalEmails": 180,
+    "deviatedValue": -6.67
+  },
+  {
+    "emailDate": "16/06/2001",
+    "totalEmails": 35,
+    "deviatedValue": -7.35
+  },
+  {
+    "emailDate": "17/06/2001",
+    "totalEmails": 39,
+    "deviatedValue": -7.17
+  },
+  {
+    "emailDate": "18/06/2001",
+    "totalEmails": 284,
+    "deviatedValue": -2.42
+  },
+  {
+    "emailDate": "19/06/2001",
+    "totalEmails": 254,
+    "deviatedValue": 2.32
+  },
+  {
+    "emailDate": "20/06/2001",
+    "totalEmails": 273,
+    "deviatedValue": 1.6
+  },
+  {
+    "emailDate": "21/06/2001",
+    "totalEmails": 328,
+    "deviatedValue": -4.64
+  },
+  {
+    "emailDate": "22/06/2001",
+    "totalEmails": 229,
+    "deviatedValue": -5.8
+  },
+  {
+    "emailDate": "23/06/2001",
+    "totalEmails": 10,
+    "deviatedValue": -8.24
+  },
+  {
+    "emailDate": "24/06/2001",
+    "totalEmails": 26,
+    "deviatedValue": -7.38
+  },
+  {
+    "emailDate": "25/06/2001",
+    "totalEmails": 266,
+    "deviatedValue": -3.64
+  },
+  {
+    "emailDate": "26/06/2001",
+    "totalEmails": 970,
+    "deviatedValue": 9.46
+  },
+  {
+    "emailDate": "27/06/2001",
+    "totalEmails": 1321,
+    "deviatedValue": 12.89
+  },
+  {
+    "emailDate": "28/06/2001",
+    "totalEmails": 206,
+    "deviatedValue": 1.12
+  },
+  {
+    "emailDate": "29/06/2001",
+    "totalEmails": 198,
+    "deviatedValue": -6.7
+  },
+  {
+    "emailDate": "30/06/2001",
+    "totalEmails": 17,
+    "deviatedValue": -7.22
+  },
+  {
+    "emailDate": "01/07/2001",
+    "totalEmails": 38,
+    "deviatedValue": -8.59
+  },
+  {
+    "emailDate": "02/07/2001",
+    "totalEmails": 268,
+    "deviatedValue": -5.02
+  },
+  {
+    "emailDate": "03/07/2001",
+    "totalEmails": 232,
+    "deviatedValue": 1.85
+  },
+  {
+    "emailDate": "04/07/2001",
+    "totalEmails": 34,
+    "deviatedValue": -0.35
+  },
+  {
+    "emailDate": "05/07/2001",
+    "totalEmails": 267,
+    "deviatedValue": -5.24
+  },
+  {
+    "emailDate": "06/07/2001",
+    "totalEmails": 267,
+    "deviatedValue": -6.86
+  },
+  {
+    "emailDate": "07/07/2001",
+    "totalEmails": 29,
+    "deviatedValue": -9.03
+  },
+  {
+    "emailDate": "08/07/2001",
+    "totalEmails": 69,
+    "deviatedValue": -10.83
+  },
+  {
+    "emailDate": "09/07/2001",
+    "totalEmails": 308,
+    "deviatedValue": -3.33
+  },
+  {
+    "emailDate": "10/07/2001",
+    "totalEmails": 363,
+    "deviatedValue": 3.48
+  },
+  {
+    "emailDate": "11/07/2001",
+    "totalEmails": 357,
+    "deviatedValue": 3.22
+  },
+  {
+    "emailDate": "12/07/2001",
+    "totalEmails": 277,
+    "deviatedValue": -0.87
+  },
+  {
+    "emailDate": "13/07/2001",
+    "totalEmails": 304,
+    "deviatedValue": 0.49
+  },
+  {
+    "emailDate": "14/07/2001",
+    "totalEmails": 19,
+    "deviatedValue": -2.35
+  },
+  {
+    "emailDate": "15/07/2001",
+    "totalEmails": 19,
+    "deviatedValue": -1.95
+  },
+  {
+    "emailDate": "16/07/2001",
+    "totalEmails": 336,
+    "deviatedValue": 1.56
+  },
+  {
+    "emailDate": "17/07/2001",
+    "totalEmails": 333,
+    "deviatedValue": 2.98
+  },
+  {
+    "emailDate": "18/07/2001",
+    "totalEmails": 332,
+    "deviatedValue": 2.93
+  },
+  {
+    "emailDate": "19/07/2001",
+    "totalEmails": 363,
+    "deviatedValue": 0.79
+  },
+  {
+    "emailDate": "20/07/2001",
+    "totalEmails": 259,
+    "deviatedValue": 0.05
+  },
+  {
+    "emailDate": "21/07/2001",
+    "totalEmails": 18,
+    "deviatedValue": -2.55
+  },
+  {
+    "emailDate": "22/07/2001",
+    "totalEmails": 24,
+    "deviatedValue": -3.04
+  },
+  {
+    "emailDate": "23/07/2001",
+    "totalEmails": 321,
+    "deviatedValue": 0.92
+  },
+  {
+    "emailDate": "24/07/2001",
+    "totalEmails": 312,
+    "deviatedValue": 3.02
+  },
+  {
+    "emailDate": "25/07/2001",
+    "totalEmails": 247,
+    "deviatedValue": 2.21
+  },
+  {
+    "emailDate": "26/07/2001",
+    "totalEmails": 449,
+    "deviatedValue": 1.83
+  },
+  {
+    "emailDate": "27/07/2001",
+    "totalEmails": 271,
+    "deviatedValue": -6.99
+  },
+  {
+    "emailDate": "28/07/2001",
+    "totalEmails": 21,
+    "deviatedValue": -13
+  },
+  {
+    "emailDate": "29/07/2001",
+    "totalEmails": 20,
+    "deviatedValue": -1.86
+  },
+  {
+    "emailDate": "30/07/2001",
+    "totalEmails": 485,
+    "deviatedValue": 2.87
+  },
+  {
+    "emailDate": "31/07/2001",
+    "totalEmails": 338,
+    "deviatedValue": 3.21
+  },
+  {
+    "emailDate": "01/08/2001",
+    "totalEmails": 269,
+    "deviatedValue": 2.31
+  },
+  {
+    "emailDate": "02/08/2001",
+    "totalEmails": 264,
+    "deviatedValue": -0.04
+  },
+  {
+    "emailDate": "03/08/2001",
+    "totalEmails": 204,
+    "deviatedValue": -0.28
+  },
+  {
+    "emailDate": "04/08/2001",
+    "totalEmails": 8,
+    "deviatedValue": -0.26
+  },
+  {
+    "emailDate": "05/08/2001",
+    "totalEmails": 21,
+    "deviatedValue": -2.46
+  },
+  {
+    "emailDate": "06/08/2001",
+    "totalEmails": 290,
+    "deviatedValue": 0.23
+  },
+  {
+    "emailDate": "07/08/2001",
+    "totalEmails": 310,
+    "deviatedValue": 2.81
+  },
+  {
+    "emailDate": "08/08/2001",
+    "totalEmails": 247,
+    "deviatedValue": 1.78
+  },
+  {
+    "emailDate": "09/08/2001",
+    "totalEmails": 344,
+    "deviatedValue": 0.36
+  },
+  {
+    "emailDate": "10/08/2001",
+    "totalEmails": 272,
+    "deviatedValue": -0.91
+  },
+  {
+    "emailDate": "11/08/2001",
+    "totalEmails": 8,
+    "deviatedValue": -3.49
+  },
+  {
+    "emailDate": "12/08/2001",
+    "totalEmails": 90,
+    "deviatedValue": -1.87
+  },
+  {
+    "emailDate": "13/08/2001",
+    "totalEmails": 359,
+    "deviatedValue": 0.55
+  },
+  {
+    "emailDate": "14/08/2001",
+    "totalEmails": 397,
+    "deviatedValue": 3.78
+  },
+  {
+    "emailDate": "15/08/2001",
+    "totalEmails": 285,
+    "deviatedValue": 2.66
+  },
+  {
+    "emailDate": "16/08/2001",
+    "totalEmails": 257,
+    "deviatedValue": -0.79
+  },
+  {
+    "emailDate": "17/08/2001",
+    "totalEmails": 236,
+    "deviatedValue": -0.97
+  },
+  {
+    "emailDate": "18/08/2001",
+    "totalEmails": 29,
+    "deviatedValue": -3.03
+  },
+  {
+    "emailDate": "19/08/2001",
+    "totalEmails": 51,
+    "deviatedValue": -3.12
+  },
+  {
+    "emailDate": "20/08/2001",
+    "totalEmails": 368,
+    "deviatedValue": 1.09
+  },
+  {
+    "emailDate": "21/08/2001",
+    "totalEmails": 370,
+    "deviatedValue": 3.52
+  },
+  {
+    "emailDate": "22/08/2001",
+    "totalEmails": 306,
+    "deviatedValue": 2.82
+  },
+  {
+    "emailDate": "23/08/2001",
+    "totalEmails": 348,
+    "deviatedValue": 0.27
+  },
+  {
+    "emailDate": "24/08/2001",
+    "totalEmails": 299,
+    "deviatedValue": -0.13
+  },
+  {
+    "emailDate": "25/08/2001",
+    "totalEmails": 41,
+    "deviatedValue": -2.06
+  },
+  {
+    "emailDate": "26/08/2001",
+    "totalEmails": 62,
+    "deviatedValue": -3.87
+  },
+  {
+    "emailDate": "27/08/2001",
+    "totalEmails": 373,
+    "deviatedValue": 1.02
+  },
+  {
+    "emailDate": "28/08/2001",
+    "totalEmails": 411,
+    "deviatedValue": 3.9
+  },
+  {
+    "emailDate": "29/08/2001",
+    "totalEmails": 326,
+    "deviatedValue": 3.06
+  },
+  {
+    "emailDate": "30/08/2001",
+    "totalEmails": 371,
+    "deviatedValue": -1.14
+  },
+  {
+    "emailDate": "31/08/2001",
+    "totalEmails": 274,
+    "deviatedValue": -0.64
+  },
+  {
+    "emailDate": "01/09/2001",
+    "totalEmails": 12,
+    "deviatedValue": -2.57
+  },
+  {
+    "emailDate": "02/09/2001",
+    "totalEmails": 12,
+    "deviatedValue": -2.52
+  },
+  {
+    "emailDate": "03/09/2001",
+    "totalEmails": 39,
+    "deviatedValue": -1.65
+  },
+  {
+    "emailDate": "04/09/2001",
+    "totalEmails": 403,
+    "deviatedValue": 3.95
+  },
+  {
+    "emailDate": "05/09/2001",
+    "totalEmails": 431,
+    "deviatedValue": 4.1
+  },
+  {
+    "emailDate": "06/09/2001",
+    "totalEmails": 357,
+    "deviatedValue": 0.67
+  },
+  {
+    "emailDate": "07/09/2001",
+    "totalEmails": 330,
+    "deviatedValue": 0.2
+  },
+  {
+    "emailDate": "08/09/2001",
+    "totalEmails": 26,
+    "deviatedValue": -2.21
+  },
+  {
+    "emailDate": "09/09/2001",
+    "totalEmails": 38,
+    "deviatedValue": -3.06
+  },
+  {
+    "emailDate": "10/09/2001",
+    "totalEmails": 474,
+    "deviatedValue": 2.02
+  },
+  {
+    "emailDate": "11/09/2001",
+    "totalEmails": 168,
+    "deviatedValue": 1.6
+  },
+  {
+    "emailDate": "12/09/2001",
+    "totalEmails": 426,
+    "deviatedValue": 3.36
+  },
+  {
+    "emailDate": "13/09/2001",
+    "totalEmails": 422,
+    "deviatedValue": 0.63
+  },
+  {
+    "emailDate": "14/09/2001",
+    "totalEmails": 369,
+    "deviatedValue": -0.28
+  },
+  {
+    "emailDate": "15/09/2001",
+    "totalEmails": 42,
+    "deviatedValue": -2.43
+  },
+  {
+    "emailDate": "16/09/2001",
+    "totalEmails": 44,
+    "deviatedValue": -2.13
+  },
+  {
+    "emailDate": "17/09/2001",
+    "totalEmails": 464,
+    "deviatedValue": 2.28
+  },
+  {
+    "emailDate": "18/09/2001",
+    "totalEmails": 534,
+    "deviatedValue": 5.05
+  },
+  {
+    "emailDate": "19/09/2001",
+    "totalEmails": 639,
+    "deviatedValue": 5.88
+  },
+  {
+    "emailDate": "20/09/2001",
+    "totalEmails": 465,
+    "deviatedValue": 0.97
+  },
+  {
+    "emailDate": "21/09/2001",
+    "totalEmails": 465,
+    "deviatedValue": 0.95
+  },
+  {
+    "emailDate": "22/09/2001",
+    "totalEmails": 27,
+    "deviatedValue": -2.79
+  },
+  {
+    "emailDate": "23/09/2001",
+    "totalEmails": 51,
+    "deviatedValue": -2.97
+  },
+  {
+    "emailDate": "24/09/2001",
+    "totalEmails": 601,
+    "deviatedValue": 3.02
+  },
+  {
+    "emailDate": "25/09/2001",
+    "totalEmails": 754,
+    "deviatedValue": 7.13
+  },
+  {
+    "emailDate": "26/09/2001",
+    "totalEmails": 728,
+    "deviatedValue": 6.66
+  },
+  {
+    "emailDate": "27/09/2001",
+    "totalEmails": 871,
+    "deviatedValue": 4.98
+  },
+  {
+    "emailDate": "28/09/2001",
+    "totalEmails": 611,
+    "deviatedValue": 2
+  },
+  {
+    "emailDate": "29/09/2001",
+    "totalEmails": 26,
+    "deviatedValue": -3
+  },
+  {
+    "emailDate": "30/09/2001",
+    "totalEmails": 59,
+    "deviatedValue": -3.12
+  },
+  {
+    "emailDate": "01/10/2001",
+    "totalEmails": 859,
+    "deviatedValue": 5.85
+  },
+  {
+    "emailDate": "02/10/2001",
+    "totalEmails": 802,
+    "deviatedValue": 7.9
+  },
+  {
+    "emailDate": "03/10/2001",
+    "totalEmails": 673,
+    "deviatedValue": 6.61
+  },
+  {
+    "emailDate": "04/10/2001",
+    "totalEmails": 648,
+    "deviatedValue": 6.09
+  },
+  {
+    "emailDate": "05/10/2001",
+    "totalEmails": 697,
+    "deviatedValue": 2.94
+  },
+  {
+    "emailDate": "06/10/2001",
+    "totalEmails": 58,
+    "deviatedValue": -3.73
+  },
+  {
+    "emailDate": "07/10/2001",
+    "totalEmails": 102,
+    "deviatedValue": -2.55
+  },
+  {
+    "emailDate": "08/10/2001",
+    "totalEmails": 865,
+    "deviatedValue": 5.35
+  },
+  {
+    "emailDate": "09/10/2001",
+    "totalEmails": 931,
+    "deviatedValue": 9.05
+  },
+  {
+    "emailDate": "10/10/2001",
+    "totalEmails": 826,
+    "deviatedValue": 7.88
+  },
+  {
+    "emailDate": "11/10/2001",
+    "totalEmails": 714,
+    "deviatedValue": 2.4
+  },
+  {
+    "emailDate": "12/10/2001",
+    "totalEmails": 758,
+    "deviatedValue": 5.9
+  },
+  {
+    "emailDate": "13/10/2001",
+    "totalEmails": 80,
+    "deviatedValue": -3.46
+  },
+  {
+    "emailDate": "14/10/2001",
+    "totalEmails": 123,
+    "deviatedValue": -2.99
+  },
+  {
+    "emailDate": "15/10/2001",
+    "totalEmails": 1225,
+    "deviatedValue": 8.56
+  },
+  {
+    "emailDate": "16/10/2001",
+    "totalEmails": 1273,
+    "deviatedValue": 12.31
+  },
+  {
+    "emailDate": "17/10/2001",
+    "totalEmails": 1251,
+    "deviatedValue": 12.07
+  },
+  {
+    "emailDate": "18/10/2001",
+    "totalEmails": 1624,
+    "deviatedValue": 11.6
+  },
+  {
+    "emailDate": "19/10/2001",
+    "totalEmails": 1362,
+    "deviatedValue": 8.28
+  },
+  {
+    "emailDate": "20/10/2001",
+    "totalEmails": 138,
+    "deviatedValue": -5.01
+  },
+  {
+    "emailDate": "21/10/2001",
+    "totalEmails": 206,
+    "deviatedValue": -2.59
+  },
+  {
+    "emailDate": "22/10/2001",
+    "totalEmails": 2025,
+    "deviatedValue": 15.6
+  },
+  {
+    "emailDate": "23/10/2001",
+    "totalEmails": 1763,
+    "deviatedValue": 17.36
+  },
+  {
+    "emailDate": "24/10/2001",
+    "totalEmails": 1936,
+    "deviatedValue": 18.85
+  },
+  {
+    "emailDate": "25/10/2001",
+    "totalEmails": 2207,
+    "deviatedValue": 16.06
+  },
+  {
+    "emailDate": "26/10/2001",
+    "totalEmails": 1978,
+    "deviatedValue": 12.24
+  },
+  {
+    "emailDate": "27/10/2001",
+    "totalEmails": 198,
+    "deviatedValue": -5.3
+  },
+  {
+    "emailDate": "28/10/2001",
+    "totalEmails": 358,
+    "deviatedValue": -5.13
+  },
+  {
+    "emailDate": "29/10/2001",
+    "totalEmails": 2180,
+    "deviatedValue": 15.69
+  },
+  {
+    "emailDate": "30/10/2001",
+    "totalEmails": 775,
+    "deviatedValue": 7.49
+  },
+  {
+    "emailDate": "31/10/2001",
+    "totalEmails": 921,
+    "deviatedValue": 8.62
+  },
+  {
+    "emailDate": "01/11/2001",
+    "totalEmails": 823,
+    "deviatedValue": -0.36
+  },
+  {
+    "emailDate": "02/11/2001",
+    "totalEmails": 843,
+    "deviatedValue": 0.41
+  },
+  {
+    "emailDate": "03/11/2001",
+    "totalEmails": 57,
+    "deviatedValue": -6.16
+  },
+  {
+    "emailDate": "04/11/2001",
+    "totalEmails": 65,
+    "deviatedValue": -5.83
+  },
+  {
+    "emailDate": "05/11/2001",
+    "totalEmails": 964,
+    "deviatedValue": 2.67
+  },
+  {
+    "emailDate": "06/11/2001",
+    "totalEmails": 934,
+    "deviatedValue": 8.76
+  },
+  {
+    "emailDate": "07/11/2001",
+    "totalEmails": 896,
+    "deviatedValue": 7.94
+  },
+  {
+    "emailDate": "08/11/2001",
+    "totalEmails": 794,
+    "deviatedValue": -0.71
+  },
+  {
+    "emailDate": "09/11/2001",
+    "totalEmails": 728,
+    "deviatedValue": -2.03
+  },
+  {
+    "emailDate": "10/11/2001",
+    "totalEmails": 25,
+    "deviatedValue": -8.01
+  },
+  {
+    "emailDate": "11/11/2001",
+    "totalEmails": 67,
+    "deviatedValue": -6.47
+  },
+  {
+    "emailDate": "12/11/2001",
+    "totalEmails": 898,
+    "deviatedValue": 1.4
+  },
+  {
+    "emailDate": "13/11/2001",
+    "totalEmails": 1032,
+    "deviatedValue": 9.52
+  },
+  {
+    "emailDate": "14/11/2001",
+    "totalEmails": 1238,
+    "deviatedValue": 11.15
+  },
+  {
+    "emailDate": "15/11/2001",
+    "totalEmails": 1131,
+    "deviatedValue": -0.94
+  },
+  {
+    "emailDate": "16/11/2001",
+    "totalEmails": 1099,
+    "deviatedValue": -1.74
+  },
+  {
+    "emailDate": "17/11/2001",
+    "totalEmails": 149,
+    "deviatedValue": -11.02
+  },
+  {
+    "emailDate": "18/11/2001",
+    "totalEmails": 237,
+    "deviatedValue": -13.87
+  },
+  {
+    "emailDate": "19/11/2001",
+    "totalEmails": 1909,
+    "deviatedValue": 5.47
+  },
+  {
+    "emailDate": "20/11/2001",
+    "totalEmails": 1723,
+    "deviatedValue": 15.85
+  },
+  {
+    "emailDate": "21/11/2001",
+    "totalEmails": 1365,
+    "deviatedValue": 11.59
+  },
+  {
+    "emailDate": "22/11/2001",
+    "totalEmails": 132,
+    "deviatedValue": -18.93
+  },
+  {
+    "emailDate": "23/11/2001",
+    "totalEmails": 211,
+    "deviatedValue": -15.52
+  },
+  {
+    "emailDate": "24/11/2001",
+    "totalEmails": 102,
+    "deviatedValue": -18.34
+  },
+  {
+    "emailDate": "25/11/2001",
+    "totalEmails": 337,
+    "deviatedValue": -18.7
+  },
+  {
+    "emailDate": "26/11/2001",
+    "totalEmails": 2031,
+    "deviatedValue": 0.53
+  },
+  {
+    "emailDate": "27/11/2001",
+    "totalEmails": 2045,
+    "deviatedValue": 18.47
+  },
+  {
+    "emailDate": "28/11/2001",
+    "totalEmails": 522,
+    "deviatedValue": 1.64
+  },
+  {
+    "emailDate": "29/11/2001",
+    "totalEmails": 564,
+    "deviatedValue": -16.16
+  },
+  {
+    "emailDate": "30/11/2001",
+    "totalEmails": 520,
+    "deviatedValue": -2.55
+  },
+  {
+    "emailDate": "01/12/2001",
+    "totalEmails": 53,
+    "deviatedValue": -8.68
+  },
+  {
+    "emailDate": "02/12/2001",
+    "totalEmails": 114,
+    "deviatedValue": -7.09
+  },
+  {
+    "emailDate": "03/12/2001",
+    "totalEmails": 423,
+    "deviatedValue": -4.2
+  },
+  {
+    "emailDate": "04/12/2001",
+    "totalEmails": 447,
+    "deviatedValue": 3.9
+  },
+  {
+    "emailDate": "05/12/2001",
+    "totalEmails": 365,
+    "deviatedValue": 3
+  },
+  {
+    "emailDate": "06/12/2001",
+    "totalEmails": 386,
+    "deviatedValue": -5.78
+  },
+  {
+    "emailDate": "07/12/2001",
+    "totalEmails": 354,
+    "deviatedValue": -5.8
+  },
+  {
+    "emailDate": "08/12/2001",
+    "totalEmails": 32,
+    "deviatedValue": -8.64
+  },
+  {
+    "emailDate": "09/12/2001",
+    "totalEmails": 69,
+    "deviatedValue": -7.25
+  },
+  {
+    "emailDate": "10/12/2001",
+    "totalEmails": 408,
+    "deviatedValue": -3.2
+  },
+  {
+    "emailDate": "11/12/2001",
+    "totalEmails": 472,
+    "deviatedValue": 4.47
+  },
+  {
+    "emailDate": "12/12/2001",
+    "totalEmails": 508,
+    "deviatedValue": 4.41
+  },
+  {
+    "emailDate": "13/12/2001",
+    "totalEmails": 528,
+    "deviatedValue": -3.7
+  },
+  {
+    "emailDate": "14/12/2001",
+    "totalEmails": 342,
+    "deviatedValue": -6.9
+  },
+  {
+    "emailDate": "15/12/2001",
+    "totalEmails": 34,
+    "deviatedValue": -12.04
+  },
+  {
+    "emailDate": "16/12/2001",
+    "totalEmails": 38,
+    "deviatedValue": -10.93
+  },
+  {
+    "emailDate": "17/12/2001",
+    "totalEmails": 545,
+    "deviatedValue": -5.54
+  },
+  {
+    "emailDate": "18/12/2001",
+    "totalEmails": 319,
+    "deviatedValue": 1.7
+  },
+  {
+    "emailDate": "19/12/2001",
+    "totalEmails": 654,
+    "deviatedValue": 4.17
+  },
+  {
+    "emailDate": "20/12/2001",
+    "totalEmails": 504,
+    "deviatedValue": -14.05
+  },
+  {
+    "emailDate": "21/12/2001",
+    "totalEmails": 402,
+    "deviatedValue": -13.21
+  },
+  {
+    "emailDate": "22/12/2001",
+    "totalEmails": 71,
+    "deviatedValue": -12.94
+  },
+  {
+    "emailDate": "23/12/2001",
+    "totalEmails": 66,
+    "deviatedValue": -0.66
+  },
+  {
+    "emailDate": "24/12/2001",
+    "totalEmails": 105,
+    "deviatedValue": -1.06
+  },
+  {
+    "emailDate": "25/12/2001",
+    "totalEmails": 60,
+    "deviatedValue": -0.42
+  },
+  {
+    "emailDate": "26/12/2001",
+    "totalEmails": 407,
+    "deviatedValue": 0.7
+  },
+  {
+    "emailDate": "27/12/2001",
+    "totalEmails": 589,
+    "deviatedValue": -14.42
+  },
+  {
+    "emailDate": "28/12/2001",
+    "totalEmails": 539,
+    "deviatedValue": -15.06
+  },
+  {
+    "emailDate": "29/12/2001",
+    "totalEmails": 103,
+    "deviatedValue": -4.19
+  },
+  {
+    "emailDate": "30/12/2001",
+    "totalEmails": 107,
+    "deviatedValue": -4.57
+  },
+  {
+    "emailDate": "31/12/2001",
+    "totalEmails": 427,
+    "deviatedValue": -0.93
+  }
+]
