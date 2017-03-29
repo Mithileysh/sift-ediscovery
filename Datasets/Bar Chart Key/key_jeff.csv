@@ -1,6 +1,6 @@
-letter,col1,col2
-Plan,2361,1165
-Meeting,1319,956
-Services,862,643
-Disclosure,851,635
-FERC,1177,944
+letter,col1,col2,col3,col4
+Plan,100,49,2361,1165
+Meeting,100,57,1319,756
+Services,100,74,862,643
+Disclosure,100,74,851,635
+FERC,100,80,1177,944
