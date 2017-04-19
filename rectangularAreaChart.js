@@ -11,7 +11,7 @@ function rectangularAreaChartDefaultSettings(){
         animateDuration: 2000, // The duration of the animation when the chart loads.
         animateDelay: 0, // The delay between the chart loading and the actual load animation starting.
         animateDelayBetweenBoxes: 200, // Adds a delay between box expansions during the load animation.
-        colorsScale: d3.scale.category20b(), // The color scale to use for the chart areas.
+        colorsScale: d3.scale.category20(), // The color scale to use for the chart areas.
         textColorScale: d3.scale.ordinal().range(["#fff"]), // The color scale to use for the chart text.
         textPadding: {top: 0, bottom: 0, left: 3, right: 3}, // Category text padding.
         maxValue: -1, // The charts maximum value. If this value is greater than the largest value displayed on the chart, this will cause the largest chart value to take up less area than the maximum height and width of the chart.
