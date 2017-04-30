@@ -1,0 +1,41 @@
+[{
+    "year": "1999",
+  "month": 4,
+        "individuals": "Robin",
+        "emails": 200
+}, {
+    "year": "1999",
+  "month": 5,
+        "individuals": "Brooke",
+        "emails": 225
+}, {
+    "year": "1999",
+  "month": 6,
+        "individuals": "Elim",
+        "emails": 11
+}, {
+    "year": "2000",
+  "month": 4,
+        "individuals": "Chiffan",
+        "emails": 268
+}, {
+    "year": "2000",
+  "month": 5,
+        "individuals": "Darwin",
+        "emails": 22
+}, {
+    "year": "2001",
+  "month": 4,
+        "individuals": "corbyn",
+        "emails": 21
+}, {
+    "year": "2001",
+  "month": 5,
+        "individuals": "Freman",
+        "emails": 25
+},{
+    "year": "2001",
+  "month": 6,
+        "individuals": "Robin",
+        "emails": 25
+}]
