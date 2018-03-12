@@ -1,15 +1,11 @@
 region,y1990,y2013
-Developed regions,7.6,3.4
-Developing regions,36.4,22
-Northern Africa,30,13.3
-Sub-Saharan Africa,45.5,31.1
-Latin America and the Caribbean,22.1,9.2
-Caucasus and Central Asia,25.7,14.8
-Eastern Asia,24.5,7.7
-Eastern Asia excluding China,11.6,7.5
-Southern Asia,50.6,29.5
-Southern Asia excluding India,49.3,30.1
-South-eastern Asia,27.4,14.4
-Western Asia,27.5,13.7
-Oceania,26.3,21.3
-World,33.3,20
+Thread 1,7.6,3.4
+Thread 2,36.4,22
+Thread 3,30,13.3
+Thread 4,45.5,31.1
+Thread 5,22.1,9.2
+Thread 6,25.7,14.8
+Thread 7,24.5,7.7
+Thread 8,11.6,7.5
+Thread 9,50.6,29.5
+Thread 10,49.3,30.1
